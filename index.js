@@ -1,8 +1,11 @@
-function gneeting(name,gender){
+
+
+function greeting(name,gender){
 let pref="MR";
 if (gender=='female'){
 
-pref="Mrs";
+
+pref='Mrs';
 
 
 
